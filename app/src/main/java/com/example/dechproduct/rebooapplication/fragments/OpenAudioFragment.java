@@ -1,4 +1,4 @@
-package fragments;
+package com.example.dechproduct.rebooapplication.fragments;
 
 import android.os.Bundle;
 
